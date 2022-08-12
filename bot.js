@@ -16,7 +16,7 @@ var bot_token = '5517395705:AAH8pReqNLLAqWx9CTzrj-6elg1my2Db-Ks'; //YOUR BOT TOK
 
 var bot_name = 'Cashmnok_Bot'; // Bot Name
 
-const bot = new Telegraf(bot_token);
+const bot = new Telegraf(5517395705:AAH8pReqNLLAqWx9CTzrj-6elg1my2Db-Ks);
 
 let db;
 
